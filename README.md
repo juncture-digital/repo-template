@@ -4,5 +4,5 @@
 
 **Examples**
 
-- [Amalfi Coast](examples/amalfi-coast.md)
+- [Amalfi Coast](examples/amalfi-coast)
 - [Amalfi Coast (v1)](examples/amalfi-coast/v1.md)

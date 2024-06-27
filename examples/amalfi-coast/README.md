@@ -9,7 +9,7 @@ The [Amalfi Coast](Q212214) (Italian: Costiera amalfitana) is a stretch of coast
 ```
 gallery
 - gh:juncture-digital/template/examples/amalfi-coast/Ravello__1.jpg
-- gh:Ravello__2.jpg
+- Ravello__2.jpg
 - gh:Ravello__3.jpg
 ```
 
@@ -54,9 +54,8 @@ One of the main sites in Amalfi is the Amalfi Cathedral. [The cathedral](zoomto/
 
 ```
 image .right
-- gh:Positano.jpg
+- Positano.jpg
 - wc:Positano_Sunset.JPG
-- flickr:5015259103
 ```
 
 The climate of Positano is very mild, of the Mediterranean type; the winters are very warm with minimum temperatures that almost never fall below 6 43 °F, while the summers are long, warm and sunny but often refreshed by the sea breeze. Thanks to the mild temperature and the beauty of the landscape, Positano has been a holiday resort since the time of the Roman Empire, as evidenced by the discovery of a villa in the bay. Typical are the many staircases that from the top of the village connect the upper districts with the valley area. The main beaches are Spiaggia Grande, Fornillo, La Porta, Fiumicello, Arienzo, San Pietro, Laurito and Remmese, some of which can also be reached by sea.
