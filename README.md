@@ -3,5 +3,6 @@
 # Juncture Repository Template
 
 **Examples**
+
 - [Latest version](examples/hello-juncture.md)
 - [Original version](examples/hello-juncture-v1.md)
