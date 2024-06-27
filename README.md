@@ -2,7 +2,4 @@
 
 # Juncture Repository Template
 
-**Examples**
-
-- [Amalfi Coast](examples/amalfi-coast)
-- [Amalfi Coast (v1)](examples/amalfi-coast/v1.md)
+Example essays can be found at [https://github.com/juncture-digital/examples](https://github.com/juncture-digital/examples)
