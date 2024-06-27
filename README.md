@@ -4,5 +4,5 @@
 
 **Examples**
 
-- [Latest version](examples/hello-juncture.md)
-- [Original version](examples/hello-juncture-v1.md)
+- [Amalfi Coast](examples/amalfi-coast.md)
+- [Amalfi Coast (v1)](examples/amalfi-coast/v1.md)
